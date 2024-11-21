@@ -4,7 +4,8 @@ llm=ChatGroq(api_key="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",
 
 # %%
 llm 
-# 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
+# Aagam : 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
+# Sashrik : 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
 
 # %%
 while True:
